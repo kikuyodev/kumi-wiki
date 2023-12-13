@@ -24,8 +24,8 @@ As all rhythm games are centered around music, it is imperative to ensure that t
 All artists reserve the right to request the removal of their content from the game at any time, and we will honor all requests to remove content from the game in compliance with the original creator's wishes. <!-- TODO: DMCA & copyright policy -->
 
 When utilizing audio from artists, it is important to ensure that the original creator of the audio is properly credited for their work, and that the usage guidelines for their works are followed. As such, we require that all submissions to the game containing audio from other creators follow the following guidelines and steps:
-* The original creator of the audio must be properly credited for their work if explicitly stated by the original artist;
-* Ensuring that the audio used falls under the usage guidelines of the original artist;
+* The original creator of the audio must be properly credited for their work if explicitly stated by the original artist.
+* Ensuring that the audio used falls under the usage guidelines of the original artist.
 * And ensuring that the audio used is allowed by the original artist to be used in derivative works; especially in the case of remixes and covers.
 
 Any audio that is used within Kumi is understood to have permissions to use said audio file. It is the responsibility of the user to gather the respective permissions to use said audio file(s).
