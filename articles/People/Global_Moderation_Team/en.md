@@ -31,7 +31,7 @@ Team members assigned to this category oversee the upkeep of the game itself, in
 
 ## Promotion
 
-Promotion to the Global Moderation Team is determined on a case-by-case basis, ranging from the candidate's ability to communicate with the community, to their ability to keep up with the game and its community. The process of finding candidates is a largely internal process, and can take a while to find the right candidate.
+Promotion to the Global Moderation Team is determined on a case-by-case basis, considering a candidate's ability to communicate with the community and stay informed about the game and its community. The process of finding candidates is a largely internal process, and can take a while to find the right candidate.
 
 Continuously asking about your current status as a candidate is not encouraged as it can discourage current members of the team to want to add or nominate you for the position.
 
