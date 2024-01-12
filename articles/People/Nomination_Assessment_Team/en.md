@@ -52,6 +52,6 @@ Members of the Nomination Assessment Team are able to change categories, if they
 
 All members of the Nomination Assessment Team can be found on their [group page](/groups/2), however; a listing of all members can be found below, with their respective responsibilities.
 
-### Leadership
-
-| Name | Responsibilities |
+| Name     | Languages | Areas of Expertise |
+| -------- | --------- | ------------------ |
+| Blushing | English   | Structural         |

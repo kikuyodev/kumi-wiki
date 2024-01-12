@@ -48,5 +48,5 @@ The factors that are generally considered are as follows:
 All members of the Global Moderation Team can be found on their [group page](/groups/1), but a list of members alongside their respective languages and areas of expertise can be found below.
 
 | Name | Languages | Areas of Expertise |
-| ---- | --------- | ------------------- |
-| ...  | ...       | ...                 |
+| ---- | --------- | ------------------ |
+| ...  | ...       | ...                |
